@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1 gh</string>
+    <string name="title">中山大学学生信息系统</string>
+    <string name="boy"> 男</string>
+    <string name="girl">女</string>
+    <string name="number">学号:</string>
+    <string name="password">密码:</string>
+    <string name="student">学生</string>
+    <string name="teacher">教职工</string>
+    <string name="reg" color="white">注册</string>
+    <string name="login" color="white">登录</string>
+</resources>
